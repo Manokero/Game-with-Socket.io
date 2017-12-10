@@ -1,0 +1,23 @@
+{
+  "name": "game-with-sockets",
+  "version": "1.0.0",
+  "description": "This is a simple game using p5.js and socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manokero/Game-with-Socket.io.git"
+  },
+  "author": "Manokero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manokero/Game-with-Socket.io/issues"
+  },
+  "homepage": "https://github.com/Manokero/Game-with-Socket.io#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
